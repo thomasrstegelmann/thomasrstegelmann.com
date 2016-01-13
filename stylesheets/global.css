@@ -1,0 +1,30 @@
+html, body {
+  background: #1e3c72;
+  background: -webkit-linear-gradient(to bottom, #1e3c72 , #2a5298);/
+  background: linear-gradient(to bottom, #1e3c72 , #2a5298);
+  color: #FFF;
+  line-height: 1.5;
+}
+
+a {
+  color: #fff;
+}
+
+header, footer, nav, section {
+  margin: 0 auto;
+  width: 80%;
+}
+
+h1, h2 {
+  font-family: 'Slabo 27px', serif;
+  font-weight: normal;
+}
+
+h1 {
+  border-bottom: 1px dotted #FFF;
+}
+
+dd {
+  font-style: italic;
+  margin-bottom: 1em;
+}
